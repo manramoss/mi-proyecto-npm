@@ -4,6 +4,7 @@
 	"description":"Este archivo es para FreeCode",
 	"keywords": ["freecodedamp", "nodejs", "npm", "backend"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
