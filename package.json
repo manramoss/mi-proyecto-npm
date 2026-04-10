@@ -3,6 +3,7 @@
 	"author": "Manuel Ramos",
 	"description":"Este archivo es para FreeCode",
 	"keywords": ["freecodedamp", "nodejs", "npm", "backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
